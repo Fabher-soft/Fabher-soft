@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Fabher-soft
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on any project of my level
+- 📫 How to reach me favourokeke42@gmail.com
